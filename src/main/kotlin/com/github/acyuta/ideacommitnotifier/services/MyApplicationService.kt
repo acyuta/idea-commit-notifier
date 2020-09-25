@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.acyuta.ideacommitnotifier.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.acyuta.ideacommitnotifier.MyBundle
 
 class MyApplicationService {
 
